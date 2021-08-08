@@ -27,6 +27,6 @@ pipeline {
 
   }
   environment {
-    player = 'Messi'
+    player = 'Henry'
   }
 }
